@@ -12,7 +12,7 @@
 - Visit [http://localhost:8080/](http://localhost:8080/)
 
 ### Admin
-Visit [https://localhost:8080/wp-admin/](https://localhost:8080/wp-admin/)
+Visit [http://localhost:8080/wp-admin/](http://localhost:8080/wp-admin/)
 
 > username: admin
 > password: admin
